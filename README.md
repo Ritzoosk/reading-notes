@@ -1,13 +1,13 @@
 # Author
 Ted Knecht
 
-## Description
+##  Description
 This is a collection of readings for CodeFellows.
 
-### About me
+###  About me
 I am Ted Knecht I love VR
 
-### Growth Mindset
+###  Growth Mindset
 How to stay in a  growth mindset.
 
 *One
