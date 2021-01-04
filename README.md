@@ -1,5 +1,6 @@
 ![Matrix Image](https://www.teahub.io/photos/full/88-880248_cypher-matrix-computer.jpg "Matrix Image")
-#Author ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "not my logo")
+#Author 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "not my logo")
 Ted Knecht
 
 ##  Description
