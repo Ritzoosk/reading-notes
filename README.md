@@ -1,8 +1,8 @@
 # Author
 Ted Knecht
 
-##Description
+## Description
 This is a collection of readings for CodeFellows.
 
-###
+### About me
 I am Ted Knecht I love VR
