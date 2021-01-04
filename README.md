@@ -21,7 +21,7 @@ How to stay in a  growth mindset.
 2.  Remember that if your struggling you just havent learned it ** YET!
 3.  Don't compare your success to others.
 
-
-
-[Click here](https://github.com/Ritzoosk)
+### Table of Contents
+[Markdown Reading](markdown.md)
+[Coder's Computer](Coders_Computer)
 
