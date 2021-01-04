@@ -22,6 +22,6 @@ How to stay in a  growth mindset.
 3.  Don't compare your success to others.
 
 ### Table of Contents
-[Markdown Reading](markdown.md)
-[Coder's Computer](Coders_Computer)
+-[Markdown Reading](markdown.md)
+-[Coder's Computer](Coders_Computer)
 
