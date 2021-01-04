@@ -5,7 +5,7 @@ Ted Knecht
 This is a collection of readings for CodeFellows.
 
 ###  About me
-I am Ted Knecht I love * *VR. 
+I am Ted Knecht I love * * VR. I enjoy 3D printing and prototyping in my off time. I have a 6 year old son who is prettey excited to learn to code as well, once I explained how Minecraft was made and what "Mods" are :laughing:
 
 ###  Growth Mindset
 How to stay in a  growth mindset.
