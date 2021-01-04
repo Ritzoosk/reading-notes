@@ -5,10 +5,16 @@ Ted Knecht
 This is a collection of readings for CodeFellows.
 
 ###  About me
-I am Ted Knecht I love VR
+I am Ted Knecht I love * *VR. 
 
 ###  Growth Mindset
 How to stay in a  growth mindset.
 
-*One
-*Two
+1.  Stay positive learning is a process.
+2.  Remember that if your struggling you just havent learned it **YET!
+3.  Don't compare your success to others.
+
+###  My Portfolio
+
+[Click here](https://github.com/Ritzoosk)
+
