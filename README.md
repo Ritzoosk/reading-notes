@@ -8,6 +8,12 @@ This is a collection of readings for CodeFellows.
 I am Ted Knecht I love * * VR. I enjoy 3D printing and prototyping in my off time. I have a 6 year old son who is pretty excited to learn to code as well, once I explained how Minecraft was made and what "Mods" are :laughing:
 I did nearly 11 years in the Navy as an avionic technician, did one depolyment on board a carrier and another to a station in Misawa, Japan :jp:
 
+###  My Portfolio
+
+[GitHub Profile](https://github.com/Ritzoosk)
+[My Insta](https://www.instagram.com/arbor_and_ore/?hl=en)
+
+
 ###  Growth Mindset
 How to stay in a  growth mindset.
 
@@ -15,7 +21,7 @@ How to stay in a  growth mindset.
 2.  Remember that if your struggling you just havent learned it ** YET!
 3.  Don't compare your success to others.
 
-###  My Portfolio
+
 
 [Click here](https://github.com/Ritzoosk)
 
