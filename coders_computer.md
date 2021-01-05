@@ -31,17 +31,32 @@ Text for coding is arranged differently from how we usually use it so text edito
  
  
  **Cheat Sheet**
+ 
  Echo - IDs current shell
+ 
  LS - list
+ 
  ls -a       - list contents including hidden files
+ 
  CD - change dir
+ 
  Mv - move
+ 
  CP - copy
+ 
  MKDIR - make Dir
+ 
  TOUCH - creates file
+ 
  CLS - clears screen
+ 
  *dont use capitals*
+ 
  ~ - home
+ 
  . - current dir
+ 
  .. - further up hierarchy
+ 
  pwd - print working dir
+
