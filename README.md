@@ -26,7 +26,7 @@ How to stay in a  growth mindset.
 ### Table of Contents
 
 *[Markdown Reading](markdown.md) 
-*[Coder's Computer](Coders_Computer)
+*[Coder's Computer](Coders_Computer.md)
 
 *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
 
