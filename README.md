@@ -7,7 +7,7 @@ Ted Knecht
 This is a collection of readings for CodeFellows.
 
 ###  About me
-I am Ted Knecht I love * * VR. I enjoy 3D printing and prototyping in my off time. I have a 6 year old son who is pretty excited to learn to code as well, once I explained how Minecraft was made and what "Mods" are :laughing:
+I am Ted Knecht I love  **VR**. I enjoy 3D printing and prototyping in my off time. I have a 6 year old son who is pretty excited to learn to code as well, once I explained how Minecraft was made and what "Mods" are :laughing:
 I did nearly 11 years in the Navy as an avionic technician, did one depolyment on board a carrier to the Persian Gulf and another to a shore station in Misawa, Japan :jp:
 
 ###  My Portfolio
@@ -28,6 +28,7 @@ How to stay in a  growth mindset.
 - *[Markdown Reading](markdown.md) 
 - *[Coder's Computer](coders_computer.md)
 - *[Cloud and revisions](revisions_cloud.md)
+- *[HTML Structure](html.md)
 *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
 
 
