@@ -32,7 +32,8 @@ How to stay in a  growth mindset.
 - *[CSS](css_notes.md)
 - *[JS Notes](js_notes.md)
 - *[Computer Notes](comp_notes.md)
-
+- *[Reading 7- JS](rd7_js.md)
+- *[Reading 8- Loops](rd8_loops.md)
 
   - *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
 
