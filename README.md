@@ -29,6 +29,7 @@ How to stay in a  growth mindset.
 - *[Coder's Computer](coders_computer.md)
 - *[Cloud and revisions](revisions_cloud.md)
 - *[HTML Structure](html.md)
+- *[CSS](css_notes.md)
 *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
 
 
