@@ -30,6 +30,9 @@ How to stay in a  growth mindset.
 - *[Cloud and revisions](revisions_cloud.md)
 - *[HTML Structure](html.md)
 - *[CSS](css_notes.md)
-*[To ReadMe](https://github.com/Ritzoosk/reading-notes)
+- *[JS Notes](js_notes.md)
+
+
+  - *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
 
 
