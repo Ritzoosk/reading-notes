@@ -25,6 +25,8 @@ How to stay in a  growth mindset.
 
 ### Table of Contents
 
+#### Reading Notes 102
+
 - *[Markdown Reading](markdown.md) 
 - *[Coder's Computer](coders_computer.md)
 - *[Cloud and revisions](revisions_cloud.md)
@@ -34,6 +36,10 @@ How to stay in a  growth mindset.
 - *[Computer Notes](comp_notes.md)
 - *[Reading 7- JS](rd7_js.md)
 - *[Reading 8- Loops](rd8_loops.md)
+
+#### Reading Notes 201
+- *[Class_01](/201/class-01.md) 
+
 
   - *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
 
