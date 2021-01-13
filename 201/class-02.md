@@ -9,7 +9,8 @@
 <h6>This is a Level 6 Heading</h6>
 
 - Paragraphs
->'''<html>
+```html
+ <html>
 HTML chapter-02/paragraphs.html <p>
 To create a paragraph, surround
 the words that make up the
@@ -28,18 +29,17 @@ Paragraphs
  into units of text. For example, a book may have
  chapters. Chapters can have subheadings. Under
  each heading there will be one or more
- paragraphs.</p>'''
-
+ paragraphs.</p>
+```
 - p tags start the next item on a new line
-- bold 
-> <b>
+- bold ```<b>```
 
 ## Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
 - CSS adds styling to the HTML framework or mark up
 > p {font-family: Arial;} (targets p tag)
 - target... then... {} (cury brackets)
 ### "index.html"
-```html 
+``` html 
 <!DOCTYPE html>
 <html>
 <head>
@@ -57,13 +57,15 @@ Paragraphs
 ```
 
 ### CSS
+```css
 >body {
  font-family: arial;
  background-color: rgb(185,179,175);}
 h1 {
  color: rgb(255,255,255);}
-
-> If you specify the font-family
+```
+> 
+ If you specify the font-family
 or color properties on the
 body> element, they will apply
 to most child elements. This is
@@ -78,6 +80,7 @@ style sheets).
 # JS BOOK
 ## Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
 - Script
+```javascript
 > var today= new Date{);
 var hourNow = today.getHours{) ;
 var greeting;
@@ -90,14 +93,15 @@ greeting 'Good morning';
 else {
 greeting 'Welcome';
 document.write(greeting) ; 
-
+```
 - /* multi line comment*/
 - // normal comment
 - setting variables var 'var name'
 - = is assignment operator
 - Data types Num, Strings, booleans
 - storing vars
-> var price;
+ ```javascript
+var price;
 var quantity;
 var total;
 price = 5;
@@ -106,7 +110,7 @@ total = price * quantity;
 c02/j s/numeri c-vari ab 1 e .j s
 var el = document.getElementByid( ' cost ');
 el .textContent = '$' +total; 
-
+```
 - strings can use single or dbl quotes
 
 ## Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
@@ -116,7 +120,7 @@ el .textContent = '$' +total;
 - ==  compare
 - != not equal
 - comparing expressions
-> ```
+```javascript
 var scorel = 90;
 var score2 = 95;
 var highScorel = 75;
@@ -133,7 +137,9 @@ el .textContent ='New high score:'+ comparison;
 ```
 - &&  both evaluate. only tru and tru = true all else false
 - ||  or if one is true statment is true
->var scorel = 8; II Round 1 score
+
+```javascript
+var scorel = 8; II Round 1 score
 var score2 = 8; II Round 2 score
 var passl 6; II Round 1 pass mark
 var pass2 = 6; II Round 2 pass mark
@@ -145,4 +151,4 @@ II Write the message i nto the page
 var el = document.getElementBy!d( 'answer') ;
 el.textContent = msg; 
 ```
-- 
+- yay!

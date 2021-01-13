@@ -12,7 +12,7 @@
 
 ### Chapter 13: “Boxes” (pp.300-329)
 - Box dim
-> div.box {
+```css div.box {
 height: 300px;
 width: 300px;
 background-color: #bbbbaa;}
@@ -20,17 +20,18 @@ p {
 height: 75%;
 width: 75%;
 background-color: #0088dd;}
-
+```
 -  min max width
-> td.description {
+
+```css td.description {
 min-width: 450px;
 max-width: 650px;
 text-align: left;
 padding: 5px;
 margin: 0px;}
-
+```
 - min max height
->h2, p {
+```css h2, p {
 width: 400px;
 font-size: 90%;
 line-height: 1.2em;}
@@ -40,46 +41,46 @@ border-bottom: 1px solid #0088dd;}
 p {
 min-height: 10px;
 max-height: 30px;}
-
+```
 - overflow, hide or scroll
->p.one {
+```css p.one {
 overflow: hidden;}
 p.two {
 overflow: scroll;}
-
+```
 - border the perimeter line
 
 - margin how close it gets to other elements
->p {
+```css p {
 width: 200px;
 border: 2px solid #0088dd;
 padding: 10px;}
 p.example {
 margin: 20px;}
-
+```
 - padding how close the content are to the border
->p {
+```css p {
 width: 275px;
 border: 2px solid #0088dd;}
 p.example {
 padding: 10px;}
-
+```
 - border-width
->p.one {
+```css p.one {
 border-width: 2px;}
 p.two {
 border-width: thick;}
 p.three {
 border-width: 1px 4px 12px 4px;}
-
+```
 - color
->p.one {
+```css p.one {
 border-color: #0088dd;}
 p.two {
 border-color: #bbbbaa #111111 #ee3e80 #0088dd;}
-
+```
 - centering content
->body {
+```css body {
 text-align: center;}
 p {
 width: 300px;
@@ -88,8 +89,9 @@ border: 20px solid #0088dd;}
 p.example {
 margin: 10px auto 10px auto;
 text-align: left;}
+```
 
->inline
+> inline
 This causes a block-level
 element to act like an inline
 element.
@@ -111,31 +113,31 @@ they used the view source option
 in their browser).
 
 - hiding boxes
->li {
+```css li {
 display: inline;
 margin-right: 10px;}
 li.coming-soon {
 visibility: hidden;}
-
+```
 
 ## JS BOOK
 ### Review from Reading 02 - Chapter 2: “Basic JavaScript Instructions” (pp.70-73)
 - ARRAYS!
->var colors;
+```javascript var colors;
 colors ['white', 'black', ' custom'];
 var el document.getElementByld('col ors');
 el . textContent = col ors[O]; 
-
+```
 - array constructor
->var colors
+```java var colors
 new Array('white ' ,
 'black',
 'custom');
 var el = document.getElementByid( ' colors' );
 el.innerHTML = colors.item(O); 
-
+```
 - getting and changing values
->II Create the array
+```java II Create the array
 var colors = ['white',
 'black' ,
 'custom'];
@@ -145,10 +147,10 @@ II Get the element with an id of col ors
 var el = document .getElementByid(' colors') ;
 II Replace with third item from the array
 el .textContent = colors[2];
-
+```
 ### Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
 - cases
->switch (level) {
+```java switch (level) {
 case 'One ':
 title= 'Level 1 ' ;
 break;
@@ -162,9 +164,9 @@ default :
 title= 'Test';
 break; 
 }
-
+```
 - switch
->var msg;
+```java var msg;
 var level = 2;
 II Message
 11 Level
@@ -184,7 +186,7 @@ msg = 'Good l uck!';
 break;
 var el = document.getEl ementByld('answer');
 el .textContent = msg; 
-
+```
 - Falsy values 
  * false
  * 0
