@@ -27,18 +27,22 @@ How to stay in a  growth mindset.
 
 #### Reading Notes 102
 
-- *[Markdown Reading](markdown.md) 
-- *[Coder's Computer](coders_computer.md)
-- *[Cloud and revisions](revisions_cloud.md)
-- *[HTML Structure](html.md)
-- *[CSS](css_notes.md)
-- *[JS Notes](js_notes.md)
-- *[Computer Notes](comp_notes.md)
-- *[Reading 7- JS](rd7_js.md)
-- *[Reading 8- Loops](rd8_loops.md)
+- [Markdown Reading](markdown.md) 
+- [Coder's Computer](coders_computer.md)
+- [Cloud and revisions](revisions_cloud.md)
+- [HTML Structure](html.md)
+- [CSS](css_notes.md)
+- [JS Notes](js_notes.md)
+- [Computer Notes](comp_notes.md)
+- [Reading 7- JS](rd7_js.md)
+- [Reading 8- Loops](rd8_loops.md)
 
 #### Reading Notes 201
-- *[Class_01](/201/class-01.md) 
+- [Class_01](/201/class-01.md) 
+- [Class_02](/201/class-02.md)
+- [Class_03](/201/class-03.md)
+- [Class_04](/201/class-04.md)
+- [Class_05](/201/class-05.md)
 
 
   - *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
