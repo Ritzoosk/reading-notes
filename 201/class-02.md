@@ -9,7 +9,7 @@
 <h6>This is a Level 6 Heading</h6>
 
 - Paragraphs
-><html>
+>'''<html>
 HTML chapter-02/paragraphs.html <p>
 To create a paragraph, surround
 the words that make up the
@@ -28,7 +28,7 @@ Paragraphs
  into units of text. For example, a book may have
  chapters. Chapters can have subheadings. Under
  each heading there will be one or more
- paragraphs.</p>
+ paragraphs.</p>'''
 
 - p tags start the next item on a new line
 - bold 
@@ -39,7 +39,8 @@ Paragraphs
 > p {font-family: Arial;} (targets p tag)
 - target... then... {} (cury brackets)
 ### "index.html"
-> <!DOCTYPE html>
+```html 
+<!DOCTYPE html>
 <html>
 <head>
  <title>Using External CSS</title>
@@ -53,6 +54,7 @@ Paragraphs
  early, second early and maincrop.</p>
 </body>
 </html>
+```
 
 ### CSS
 >body {
@@ -63,7 +65,7 @@ h1 {
 
 > If you specify the font-family
 or color properties on the
-<body> element, they will apply
+body> element, they will apply
 to most child elements. This is
 because the value of the
 font-family property is
@@ -114,7 +116,8 @@ el .textContent = '$' +total;
 - ==  compare
 - != not equal
 - comparing expressions
-> var scorel = 90;
+> ```
+var scorel = 90;
 var score2 = 95;
 var highScorel = 75;
 var highScore2 = 95;
@@ -127,7 +130,7 @@ var comparison= (score!+ score2) > (highScorel + highScore2);
 II Write the message into the page
 var el = document.getElementByid( 'answer');
 el .textContent ='New high score:'+ comparison;
-
+```
 - &&  both evaluate. only tru and tru = true all else false
 - ||  or if one is true statment is true
 >var scorel = 8; II Round 1 score
@@ -141,5 +144,5 @@ var msg = 'Both rounds passed: ' + passBoth;
 II Write the message i nto the page
 var el = document.getElementBy!d( 'answer') ;
 el.textContent = msg; 
-
+```
 - 
