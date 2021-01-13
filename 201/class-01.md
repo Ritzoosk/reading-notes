@@ -13,7 +13,7 @@ Program: Determine which slide to show
 Modify: Show the requested slide
 
 ## HTML Chapter 1: “Structure” (pp.12-39)
-> '<p>' is open tag </p> close tag
+- > '<p>' is open tag </p> close tag
 - attributes goto elements and information or settings
 - head not shown in page
 - body = main page content to be rendered
