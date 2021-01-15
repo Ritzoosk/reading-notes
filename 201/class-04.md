@@ -146,3 +146,14 @@ var volumeOne = getSize (3, 2, 3)[1];
 - seeing others work flow and methods
 - better coding vocab = better interview vocab
 - common practice in industry
+```javascript
+ for ( var iA=0 ; iA < arrayOfAns.length ; iA++){
+    if (userGuess7 === arrayOfAns[iA]){
+      alert('Nice! That is one of them!')
+      i=0;
+      frendLvl++;
+      break;
+    }else(i == 0)
+    // console.log('last try')
+      break;
+```
