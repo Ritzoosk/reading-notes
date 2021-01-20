@@ -1,4 +1,4 @@
-# Reading 07
+# Reading 08
 ## HTML BOOK
 ### Chapter 4
 - a tag, inside a tag 'href' = 'url', close a tag, "text that will link" closing ta tag.
