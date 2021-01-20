@@ -1,7 +1,7 @@
 # Reading 07
 ## HTML BOOK
 ### Chapter 4
-- 
+- a tag, inside a tag 'href' = 'url', close a tag, "text that will link" closing ta tag.
 ```html
 <a href="http://www.imdb.com">IMDB</a>
 ```
@@ -24,8 +24,8 @@
 Internet Movie Database</a> (opens in new window) 
 ```
 - Example:
-```html 
-<html>
+
+><html>
 <head>
  <title>Links</title>
 </head>
@@ -52,5 +52,5 @@ Internet Movie Database</a> (opens in new window)
  <p><a href="#top">Top of page</a></p>
 </body>
 </html>
-```
+
 - 
