@@ -147,3 +147,42 @@ elHotel2.textContent = details2;
 - this. referrs to suff in the obj
 - array is an obj with numbered keys
 - 
+
+```javascript
+
+
+function contentCreator(elementType, content){
+
+  var element = document.createElement (elementType);
+
+  element.textContent = content;
+
+  return element;
+}
+
+var paragraph = contentCreator('p','some text');
+
+var divElement = document.getElementId('content-box');
+
+divElement.appendChild(paragraph);
+
+//EXAMPLE OOP//
+var seattle={
+
+
+}
+//constructor
+function Store(){
+
+  this.name = 'seattle';
+  this.hours = [6,7,8]
+}
+
+Store.prototype.speak = function(){
+
+
+}
+
+var seattle = new Store();
+```
+
