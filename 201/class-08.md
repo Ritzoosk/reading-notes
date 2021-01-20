@@ -1,6 +1,6 @@
-# Reading 04
+# Reading 07
 ## HTML BOOK
-### Chapter 4: Ch.4 “Links” (pp.74-93)
+### Chapter 4
 - 
 ```html
 <a href="http://www.imdb.com">IMDB</a>
@@ -10,6 +10,10 @@
 - linking back you your pages you can use the shorter relative URL
 - parents, grandparents etc pg82 pdf89
 - email links
+- 
+
+- a tag, inside a tag 'href' = 'url', close a tag, "text that will link" closing ta tag.
+
 >```html
  <a href="mailto:jon@example.org">Email Jon</a> 
  ```
@@ -49,79 +53,4 @@ Internet Movie Database</a> (opens in new window)
 </body>
 </html>
 ```
-
-### Chapter 15: “Layout” (pp.358-404)
-- block level vs. inline
-- parents contain child elements
-- z-index controls whats on top
-- float allows other elements to "flow" around it in a determined direction
-
-```css
-body {
-width: 750px;
-font-family: Arial, Verdana, sans-serif;
-color: #665544;}
-h1 {
-background-color: #efefef;
-padding: 10px;}
-p {
-width: 450px;}
- ```
-```html
-<body>
-<h1>The Evolution of the Bicycle</h1>
-<p>In 1817 Baron von Drais invented a walking
- machine that would help him get around the
- royal gardens faster...</p>
-</body>
- ```
- - position:absolute
-> When the position property
-is given a value of absolute,
-the box is taken out of normal
-flow and no longer affects the
-position of other elements on
-the page. (They act like it is not
-there.) 
-
-- Fixed
->It positions the element in
-relation to the browser window.
-Therefore, when a user scrolls
-down the page, it stays in the
-exact same place. It is a good
-idea to try this example in your
-browser to see the effect.
-
-- Columns without floats
->Many web pages use multiple
-columns in their design. This
-is achieved by using a <div>
-element to represent each
-column. The following three CSS
-properties are used to position
-the columns next to each other: 
-
-```html
-<h1>The Evolution of the Bicycle</h1>
-<div class="column1of2">
-<h3>The First Bicycle</h3>
-<p>In 1817 Baron von Drais invented a walking
- machine that would help him get around the
- royal gardens faster: two same-size ...</p>
-</div>
-<div class="column2of2">
-<h3>Bicycle Timeline</h3> ...
-</div>
- ```
-```css
-.column1of2 {
-float: left;
-width: 620px;
-margin: 10px;}
-.column2of2 {
-float: left;
-width: 300px;
-margin: 10px;}
-```
-
+- 
