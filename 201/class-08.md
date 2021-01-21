@@ -54,3 +54,5 @@ Internet Movie Database</a> (opens in new window)
 </html>
 
 - 
+
+(Pikachoo, 40, 10HP,['nibble', 'defend'], 'pikaaa pikaaaa chooooo' )
