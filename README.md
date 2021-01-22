@@ -47,6 +47,12 @@ How to stay in a  growth mindset.
 - [Class_07](/201/class-07.md)
 - [Class_08](/201/class-08.md)
 - [Class_09](/201/class-09.md)
+- [Class_10](/201/class-10.md)
+- [Class_11](/201/class-11.md)
+- [Class_12](/201/class-12.md)
+
+
+
 
   - *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
 

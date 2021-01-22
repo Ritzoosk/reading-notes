@@ -108,3 +108,15 @@ text-align: right;}
   - DOM lvl 2 listeners p254
 
    ![Event Image](201/img/evnt 2.PNG )
+
+   ```javascript
+   var star = '*';
+    for (i = 0; i<= 4;i++){
+      var printString = '';
+      for (j = 0; j<= i;j++){
+        printString += star;
+
+      }
+    console.log(printString);
+    }
+   ```
