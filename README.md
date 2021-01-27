@@ -50,10 +50,12 @@ How to stay in a  growth mindset.
 - [Class_10](/201/class-10.md)
 - [Class_11](/201/class-11.md)
 - [Class_12](/201/class-12.md)
+- [Class_13](/201/class-13.md)
+- [Class_14](/201/class-14.md)
 
 
 
 
-  - *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
+- *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
 
 
