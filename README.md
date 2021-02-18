@@ -53,7 +53,21 @@ How to stay in a  growth mindset.
 - [Class_13](/201/class-13.md)
 - [Class_14](/201/class-14.md)
 
-
+#### Reading Notes 301
+- [Class_01](/301/class-01.md) 
+- [Class_02](/301/class-02.md)
+- [Class_03](/301/class-03.md)
+- [Class_04](/301/read-04.md)
+- [Class_05](/301/class-05.md)
+- [Class_06](/301/class-06.md)
+- [Class_07](/301/class-07.md)
+- [Class_08](/301/class-08.md)
+- [Class_09](/301/class-09.md)
+- [Class_10](/301/class-10.md)
+- [Class_11](/301/class-11.md)
+- [Class_12](/301/class-12.md)
+- [Class_13](/201/class-13.md)
+- [Class_14](/201/class-14.md)
 
 
 - *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
