@@ -23,9 +23,9 @@ How to stay in a  growth mindset.
 2.  Remember that if your struggling you just havent learned it ** YET!
 3.  Don't compare your success to others.
 
-### Table of Contents
+# Reading Notes
 
-#### Reading Notes 102
+## Code 102 - Intro to Software Development
 
 - [Markdown Reading](markdown.md) 
 - [Coder's Computer](coders_computer.md)
@@ -37,7 +37,8 @@ How to stay in a  growth mindset.
 - [Reading 7- JS](rd7_js.md)
 - [Reading 8- Loops](rd8_loops.md)
 
-#### Reading Notes 201
+## Code 201 - Foundations of Software Development
+
 - [Class_01](/201/class-01.md) 
 - [Class_02](/201/class-02.md)
 - [Class_03](/201/class-03.md)
@@ -53,7 +54,8 @@ How to stay in a  growth mindset.
 - [Class_13](/201/class-13.md)
 - [Class_14](/201/class-14.md)
 
-#### Reading Notes 301
+## Code 301 - Intermediate Software Development
+
 - [Class_01](/301/class-01.md) 
 - [Class_02](/301/class-02.md)
 - [Class_03](/301/class-03.md)
@@ -68,6 +70,10 @@ How to stay in a  growth mindset.
 - [Class_12](/301/class-12.md)
 - [Class_13](/201/class-13.md)
 - [Class_14](/201/class-14.md)
+
+## Code 401 - Advanced Software Development
+
+
 
 
 - *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
