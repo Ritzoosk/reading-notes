@@ -67,7 +67,7 @@ How to stay in a  growth mindset.
 - [Class_09](/301/read-09.md)
 - [Class_10](/301/class-10.md)
 - [Class_11](/301/read-11.md)
-- [Class_12](/301/class-12.md)
+- [Class_12](/301/read-12.md)
 - [Class_13](/201/class-13.md)
 - [Class_14](/201/class-14.md)
 
