@@ -69,7 +69,7 @@ How to stay in a  growth mindset.
 - [Class_11](/301/read-11.md)
 - [Class_12](/301/read-12.md)
 - [Class_13](/201/read-13.md)
-- [Class_14](/201/class-14.md)
+- [Class_14](/201/read-14.md)
 
 ## Code 401 - Advanced Software Development
 
