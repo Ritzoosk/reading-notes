@@ -75,8 +75,21 @@ How to stay in a  growth mindset.
 
 ## Code 401 - Advanced Software Development
 
-
-
+- [Class_01](/401/class-01.md) 
+- [Class_02](/301/class-02.md)
+- [Class_03](/301/class-03.md)
+- [Class_04](/301/read-04.md)
+- [Class_05](/301/read-05.md)
+- [Class_06](/301/read-06.md)
+- [Class_07](/301/read-07.md)
+- [Class_08](/301/read-08.md)
+- [Class_09](/301/read-09.md)
+- [Class_10](/301/class-10.md)
+- [Class_11](/301/read-11.md)
+- [Class_12](/301/read-12.md)
+- [Class_13](/301/read-13.md)
+- [Class_14](/301/read-14.md)
+- [Class_14](/301/read-15.md)
 
 - *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
 
