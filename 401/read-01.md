@@ -1,71 +1,73 @@
-# Reading and Reference Materials
-
-## Solving Problems
-
-### Steps
-- Read it twice
-
-- Solve it via sample data (3+ sets)
-
-- Optimize steps, remove redundancies
-
-- Outline steps in pseudo code. 
-  - Identify order of operation
-  - develope structure before diving into detail
-
-- Swap in real code
-  - convert pseudo code in to real code line for line
-
-- Optimize
-  - simplify, remove duplicates
-  - Refactor?
-  - good variable names?
-  - comments?
-
-### Recommended Links
-- TopCoder
-- [Codility](https://www.codility.com/) 
-
-# Act like you make $1k/hr
-- Realize the value in time
-- Busy is bad stress, focused individuals are not busy
-- 'Deep Work' Cal Newport
-- Respect and value your time and others will too.
-- Know where your time goes, take charge of a budget it.
+# Node Ecosystem, TDD
 
 
-# How to think like a programmer
-- Fully understand yor problem. Dont start until you can explain it in simple terms.
-- Plan your solution.
-  - what inputs do you need? outputs?
-  - give yourself time to fully understand the steps of your plan
-- Divide
- - Break the solution in chunks, attack these "sub-Problems"
-- Get stuck
-  - Expect to get stuck
-  - are you stuck on trying to solve o big of an issue, break it up.
-  - Debug, research, reassess.
+### Describe (in plain English) what Array.map() does
 
-### Practice
-  - to be a good problem solver you must solve many problems.
-  - Increase the challenge till you fail.
+- array.map CREATES a NEW array containing all the results of the appilcable function
+- [array.map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 
 
-# 5 Whys
 
-- Developed by Sakichi Toyoda (Toyoda Ind. 1930s)
-- Go and see philosophy.
-- not Ideal for hi complexity or critical issues, these problems may require more cause/effect/failure mode type analysis
-- Good for T/S'ing, QA, work arounds, etc.
+### Describe (in plain English) what Array.reduce() does
 
-### How to use the 5 Whys
 
-- Assemble a team
-  - Assign a focus facilitator
-- Define the Problem
-- Ask why
-  - Collect answeres
-- Ask why 4 more times seeking subsequent reasons
-- Know when you've gone far enough
-- Identify and address root causes
-- Monitor the effectiveness of your measures.
+- array.reduce reduces an array into a single output 
+- [array.reduce](https://www.javascripttutorial.net/javascript-array-reduce/) 
 
+
+### Provide code snippets showing how to use superagent() to fetch data from a URL and log the result With normal Promise .then() syntax Again with async / await syntax
+
+
+#### .then
+- "function newSearch(req, res){
+  console.log('newSearch', req.body);
+  try{
+    superagent.get(`https://www.googleapis.com/books/v1/volumes?q=in${req.body.selection}:${req.body.userInput}& limit=10`)
+    .then(bookData => {
+  
+      //console.log("bookData", bookData.body);
+      
+      const bookCameBack = bookData.body.items.map(outputPrep);
+      function outputPrep(info){
+        return new Bookbuild(info)
+      }
+      res.render('pages/searches/show', {bookFront : bookCameBack})
+    });
+    } catch(error){
+      res.render('pages/error.ejs', {errorThatComesBack : error})
+  }
+  
+}"
+- my book app
+
+### async / await
+
+- "const foo = async function() {
+  // the function containing this code would 
+  try {
+    let res = await request.executeQuery(params);
+    if (_inFlightQueryMetadata) {
+      _inFlightQueryMetadata.abort();
+    }
+    _inFlightQueryMetadata = request.queryMetadata(res.queryId);
+    res = await _inFlightQueryMetadata;
+    if (res.metadata.something) {
+      res = await request.optionalThirdStep(res.metadata);
+      // do something with third step res
+    } else {
+      // do something with second step res
+    }
+  } catch (err) {
+    // handle the error (we can handle all errors for all requests in this one handler if we choose)
+    return;
+  }
+};" 
+- https://www.honeycomb.io/blog/es7-await-async-and-superagent/
+
+
+### Explain promises as though you were mentoring a Code 301 level student Are all callback functions considered to be Asynchronous? Why or Why Not?
+
+- a promise is an object that will get assign later. It will then exist in one of 3 states 
+  - fulfilled
+  - rejected
+  - pending
+- Depends what is being promised. when the promise involves external resources it will be asynchronos.
