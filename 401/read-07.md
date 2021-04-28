@@ -1,3 +1,5 @@
+# Bearer Auth.
+
 ## Correct order:
 - Register your application to get a client_id and client_secret
 - Ask the client if they want to sign in via a third party
