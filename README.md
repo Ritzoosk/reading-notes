@@ -91,6 +91,9 @@ How to stay in a  growth mindset.
 - [Class_13](/401/read-13.md)
 - [Class_14](/401/read-14.md)
 - [Class_14](/401/read-15.md)
+- [Class_14](/401/hash-tables.md)
+- [Class_14](/401/hooks-api.md)
+
 
 - *[To ReadMe](https://github.com/Ritzoosk/reading-notes)
 
